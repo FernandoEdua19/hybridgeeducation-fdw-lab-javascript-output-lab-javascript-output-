@@ -6,4 +6,4 @@
 	- Un título que diga "Demostración de Output en Javascript".
 	- Un botón que, al hacer clic, muestre una alerta con tu nombre.
 	- Un párrafo vacío y un botón que, al hacer clic, cambie el contenido del párrafo a "¡Texto actualizado con Javascript!".
-	- Un mensaje que se imprima en la consola del navegador cuando se cargue la página.
+	- Un mensaje que se imprima en la consola del navegador cuando se cargue la página. 
